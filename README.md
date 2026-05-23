@@ -61,7 +61,7 @@ I build intelligent systems and scalable backend architectures. Whether I'm desi
       <td align="center">
         <b>CodeChef</b><br><br>
         <a href="https://www.codechef.com/users/swarnim254">
-          <img src="https://codechef-readme-stats.onrender.com/swarnim254?theme=tokyonight" alt="swarnim254 CodeChef Stats" />
+          <img src="https://img.shields.io/badge/CodeChef-swarnim254-8B4513?style=for-the-badge&logo=codechef&logoColor=white" alt="swarnim254 CodeChef Profile" />
         </a>
       </td>
     </tr>
