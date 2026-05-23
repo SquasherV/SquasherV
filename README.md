@@ -44,3 +44,18 @@ I build intelligent systems and scalable backend architectures. Whether I'm desi
   <img src="https://github-readme-stats.vercel.app/api?username=SquasherV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SquasherV&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
+
+---
+
+### 🏆 Competitive Ratings
+
+<div align="center">
+  <a href="https://codeforces.com/profile/SquasherV">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=SquasherV&theme=tokyonight" alt="Codeforces Stats" />
+  </a>
+  <br/>
+  <br/>
+  <a href="https://www.codechef.com/users/SquasherV">
+    <img src="https://img.shields.io/badge/CodeChef_Profile-SquasherV-8B4513?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" />
+  </a>
+</div>
