@@ -41,8 +41,8 @@ I build intelligent systems and scalable backend architectures. Whether I'm desi
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SquasherV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SquasherV&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SquasherV&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SquasherV&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -50,20 +50,13 @@ I build intelligent systems and scalable backend architectures. Whether I'm desi
 ### 🏆 Competitive Programming
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <b>Codeforces</b><br><br>
-        <a href="https://codeforces.com/profile/SquasherV">
-          <img src="https://codeforces-readme-stats.vercel.app/api/card?username=SquasherV&theme=tokyonight&disable_animations=false" alt="SquasherV Codeforces Stats" />
-        </a>
-      </td>
-      <td align="center">
-        <b>CodeChef</b><br><br>
-        <a href="https://www.codechef.com/users/swarnim254">
-          <img src="https://img.shields.io/badge/CodeChef-swarnim254-8B4513?style=for-the-badge&logo=codechef&logoColor=white" alt="swarnim254 CodeChef Profile" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <p>Active participant in global coding contests with a focus on algorithmic optimization.</p>
+  <br>
+  
+  <a href="https://www.codechef.com/users/swarnim254">
+    <img src="https://img.shields.io/badge/CodeChef-2★_Star-8B4513?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 2 Star" />
+  </a>
+  <a href="https://codeforces.com/profile/SquasherV">
+    <img src="https://img.shields.io/badge/Codeforces-SquasherV-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
+  </a>
 </div>
