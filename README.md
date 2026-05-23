@@ -41,7 +41,7 @@ I build intelligent systems and scalable backend architectures. Whether I'm desi
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SquasherV&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SquasherV&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SquasherV&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
