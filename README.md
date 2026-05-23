@@ -1,56 +1,53 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A1B26&height=220&section=header&text=Swarnim%20Vatsyayan&fontSize=55&fontColor=7aa2f7&animation=fadeIn&desc=AI%20/%20ML%20Engineer&descSize=20&descAlignY=70" alt="Swarnim Vatsyayan" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=bb9af7&center=true&vCenter=true&width=800&lines=🚀+Building+Predictive+AI+%26+RAG+Architectures;🧠+Training+YOLOv8+%26+XGBoost+Models;🏆+Competitive+Programmer+(CodeChef+%26+Codeforces);⚡+Architecting+Scalable+Backend+Systems" alt="Typing Animation" />
+  <h1>Swarnim Vatsyayan</h1>
+  <p>
+    <strong>AI / ML Engineer & Systems Builder</strong><br>
+    <i>B.Tech Computer Science @ KIIT | Competitive Programmer</i>
+  </p>
+  <p>
+    <a href="https://codeforces.com/profile/SquasherV"><img src="https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=flat-square&logo=codeforces" alt="Codeforces"></a>
+    <a href="https://www.codechef.com/users/swarnim254"><img src="https://img.shields.io/badge/CodeChef-2★_Star-8B4513?style=flat-square&logo=codechef" alt="CodeChef"></a>
+  </p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🔬 Core Focus
 
-I build intelligent systems and scalable backend architectures. Whether I'm designing predictive models, training a YOLOv8 network, or optimizing algorithms for competitive programming, I focus on clean, efficient, and robust code.
+I design predictive models and scalable backend systems. Instead of relying on boilerplate frameworks, my current research and development focus lies in building **Retrieval-Augmented Generation (RAG) architectures** and training advanced regression and vision models like **XGBoost** and **YOLOv8**.
 
-- 🎓 Pursuing a B.Tech in **Computer Science and Engineering** (2024–2028)
-- 🧠 Deeply interested in **Artificial Intelligence, Machine Learning, and RAG architectures**
-- ⚡ Currently working on end-to-end ML pipelines and real-time API integrations
+### 🛠 Technical Arsenal
 
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+* **Core Languages:** Python, C++, Java, C, SQL
+* **Data & Intelligence:** Scikit-Learn, Pandas, NumPy, XGBoost, YOLOv8
+* **Systems & Backend:** Flask, REST APIs, Git, Hardware Troubleshooting (Arduino)
 
 ---
 
-### 📈 Activity & Consistency
+### 🚀 Flagship Engineering
+
+<details>
+<summary><b>📈 Algorithmic Trading System</b></summary>
+<br>
+An AI-driven system designed to forecast market movements by analyzing limit order books. Built with predictive ML pipelines to simulate and analyze high-frequency trading data.
+</details>
+
+<details>
+<summary><b>🚗 Car Price Predictor (End-to-End)</b></summary>
+<br>
+A Flask-based web application powered by an XGBoost Regressor model. Handles automated data cleaning, custom training scripts, and deployment for real-time price estimation.
+</details>
+
+<details>
+<summary><b>🏫 School Dropout Prediction System</b></summary>
+<br>
+A data-driven predictive modeling tool developed to analyze complex educational datasets and identify at-risk students before they drop out.
+</details>
+
+---
+
+### 📊 Commit Cityscape
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SquasherV&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SquasherV&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 🏆 Competitive Programming
-
-<div align="center">
-  <p>Active participant in global coding contests with a focus on algorithmic optimization.</p>
-  <br>
-  <a href="https://www.codechef.com/users/swarnim254">
-    <img src="https://img.shields.io/badge/CodeChef-2★_Star-8B4513?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 2 Star" />
-  </a>
-  <a href="https://codeforces.com/profile/SquasherV">
-    <img src="https://img.shields.io/badge/Codeforces-SquasherV-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
-  </a>
+  <img src="https://raw.githubusercontent.com/SquasherV/SquasherV/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 </div>
